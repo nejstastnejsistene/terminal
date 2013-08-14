@@ -1,0 +1,4 @@
+terminal
+========
+
+Curses in Python.
